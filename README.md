@@ -9,7 +9,11 @@ I'm a Software Developer that loves to implement new up and coming technology. I
 *   🌍  I'm based in Florida
 *   🚀  I'm currently working on [Recipeat](http://https://recipeat.herokuapp.com/)
 *   🧠  I'm learning Custom React Hooks
-*   🤝  I'm open to collaborating on Web-Software projects### Skills 
+*   🤝  I'm open to collaborating on Web-Software projects  
+ 
+### Skills 
+
+
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -22,14 +26,12 @@ I'm a Software Developer that loves to implement new up and coming technology. I
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
-                          
-                      <a href="https://www.github.com/kaimcfarlane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/kai-mcfarlane-869b3a238" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/kaimcfarlane/WeatherApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaimcfarlane&repo=WeatherApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kaimcfarlane/ReactTS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaimcfarlane&repo=ReactTS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="left"> <a href="https://www.github.com/kaimcfarlane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kai-mcfarlane-869b3a238" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/kaimcfarlane/WeatherApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaimcfarlane&repo=WeatherApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kaimcfarlane/ReactTS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaimcfarlane&repo=ReactTS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <!--
 **kaimcfarlane/kaimcfarlane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
