@@ -7,7 +7,7 @@ Fullstack Developer | CS Student
 I'm a Software Developer that loves to implement new up and coming technology. I'm currently exploring website/application development and pursuing a degree in computer science from the University of Florida.
 
 *   🌍  I'm based in Florida
-*   🚀  I'm currently working on [Recipeat](http://https://recipeat.herokuapp.com/)
+*   🚀  I'm currently working on [Recipeat](https://recipeat.herokuapp.com/)
 *   🧠  I'm learning Custom React Hooks
 *   🤝  I'm open to collaborating on Web-Software projects  
  
