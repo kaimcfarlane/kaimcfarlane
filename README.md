@@ -8,7 +8,7 @@ I'm a Software Developer that loves to implement new up and coming technology. I
 
 *   🌍  I'm based in Florida
 *   🚀  I'm currently working on [Recipeat](https://recipeat.herokuapp.com/)
-*   🧠  I'm learning e-commerce
+*   🧠  I'm learning e-commerce app development
 *   🤝  I'm open to collaborating on Web-Software projects  
  
 ### Skills 
